@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">ReservationApp</string>
+    <string name="first_fragment">First Fragment</string>
+    <string name="next">Next</string>
+    <string name="back_to_first_fragment">Back to First Fragment</string>
+    <string name="third_fragment">Third Fragment</string>
+    <string name="second_fragment">Second Fragment</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="score">%d</string>
 </resources>
